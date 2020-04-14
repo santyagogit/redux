@@ -6,5 +6,12 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'redux-base';
+  // @select('counter') counter;
+  // @select(['messaging', 'newMessages']) newMessages;
+
+  // constructor(private ngRedux: NgRedux<IAppState>) {
+
+  // }
+  
+  
 }
